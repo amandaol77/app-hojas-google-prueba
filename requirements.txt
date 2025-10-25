@@ -1,4 +1,4 @@
 pandas
 streamlit
 gspread
-streamlit_gsheets
+st-gsheets-connection
