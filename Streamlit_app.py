@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_gsheets import GSheetsConnection
+from st_gsheets_connection import GSheetsConnection
 import pandas as pd
 
 st.set_page_config(layout="centered", page_title="App de Prueba GSheets - Dos Hojas")
