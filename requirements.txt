@@ -1,4 +1,4 @@
-pandas
-streamlit
-gspread
-st-gsheets-connection
+pandas==2.1.4
+streamlit==1.36.0
+gspread==6.0.2
+st-gsheets-connection==0.0.4
